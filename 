@@ -1,0 +1,14 @@
+Test: commande "git commit --amend"
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Philart666 <127984003+Philart666@users.noreply.github.com>
+# Date:      Wed Mar 15 23:25:52 2023 +0100
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   index.html
+#
